@@ -52,9 +52,6 @@ deleteBtn.addEventListener("click", function () {
 		deleteBtn.style.background = "#fff";
 	}, 2000);
 });
-document.getElementsByClassName("rest").addEventListener("click", function () {
-	deleteBtn.innerText = "delete all save links ";
-});
 
 inputBtn.addEventListener("click", function () {
 	myLeads.push(inputEl.value);
