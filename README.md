@@ -2,7 +2,9 @@
 
 Welcome to my first chrome extention and also my first commit!
 
-Here I used html, vanilla js, and css. I made this ext. before I learned about scss, however, even without scss, styling this project was a breeze.
+A chrome extension that lets you seamlessly save links and revisit them later. Very useful little tool when used for lead tracking and general temporary bookmarks.
+
+Here I used html, vanilla js, and css. I made this ext. before I learned about scss(or github LOL), however, even without scss, styling this project was a breeze.
 If you peek into the index.js you will see this is utilizing chrome's local storage to save, fetch, and edit a stored array of links. Pretty simple stuff so far...
 
 
